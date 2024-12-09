@@ -18,9 +18,10 @@
 ## 리포지토리 설명
 
 ### [WithBasic_MD](https://github.com/NullD4201/WithBasic_MD)
-> 작성 당시인 2022년 8월 기준 언리얼 엔진 5.0 베타1 전용 <br>
+> - 작성 당시인 2022년 8월 기준 언리얼 엔진 5.0 베타1 전용 <br>
 Mediapipe 플러그인이 존재하지 않아 언리얼엔진 4.27 버전의 <br>
 플러그인 포팅을 시도한 프로젝트
+> - 2022 메타버스 개발자 경진대회 <모션캡쳐를 활용한 온라인 회의 시스템 플러그인>
 
 ### [MetaDirection](https://github.com/NullD4201/MetaDirection)
 > 언리얼 엔진과 Mediapipe Python 데이터를 연동시키기 위해 <br>
